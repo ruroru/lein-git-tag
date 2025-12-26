@@ -5,7 +5,7 @@ Leiningen plugin to add version git tag
 Add git-tag to plugin list
 
 ```clojure
-[org.clojars.jj/lein-git-tag "1.0.0-SNAPSHOT"]
+[org.clojars.jj/lein-git-tag "1.0.0"]
 ```
 
 ## Usage
