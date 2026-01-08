@@ -4,7 +4,7 @@
   :license {:name "EPL-2.0 OR GPL-2.0-or-later WITH Classpath-exception-2.0"
             :url "https://www.eclipse.org/legal/epl-2.0/"}
   :dependencies [[org.clojure/clojure "1.11.1"]
-                 [org.eclipse.jgit/org.eclipse.jgit "7.4.0.202509020913-r"]]
+                 [org.eclipse.jgit/org.eclipse.jgit "7.5.0.202512021534-r"]]
   :repl-options {:init-ns lein-git-tag.core}
 
   :deploy-repositories [["clojars" {:url      "https://repo.clojars.org"
